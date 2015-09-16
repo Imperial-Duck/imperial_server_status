@@ -1,0 +1,30 @@
+The MIT License (MIT)
+
+Copyright (c) 2015 Nicholas Schneider
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software with the listed requirements, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. REDISTRIBUTION/DISTRIBUTION NOTES
+	1a. Redistribution of provided software/product is only allowed if the valid terms are followed.
+	1b. If the valid terms are not followed, the license is immediately terminated and invalid.
+
+2. TERMS OF REDISTRIBUTION/DISTRIBUTION
+	TERM 1: The software/product's author and copyright holder's name should be given credit to visibily on any
+			webpages the software/product is used on.
+	TERM 2: A link to the origional source code of the software/product is required on any webpages the
+			software/product is used on. The valid origional source code link is http://github.com/imperial-knight/server-status.
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
