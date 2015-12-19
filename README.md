@@ -17,3 +17,7 @@ The license can be found at http://github.com/imperial-knight/server-status/LICE
 * Easily customizable.
 * Easyily configurable.
 * Easily adaptable (put into another project).
+
+### Credits
+
+* xPaw — SourceQuery and related API.
