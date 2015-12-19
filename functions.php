@@ -42,3 +42,4 @@
 			}
 
 	$Query->Disconnect( );
+?>
